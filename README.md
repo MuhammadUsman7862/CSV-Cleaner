@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Basic usage:
+(BASIC USAGE:)
 
 ```bash
 python clean_csv.py input.csv
