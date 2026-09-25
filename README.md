@@ -45,7 +45,7 @@ Specify a custom output path:
 python clean_csv.py input.csv --output cleaned_data.csv
 ```
 
-Choose a fill strategy:
+Fill strategy:
 
 ```bash
 python clean_csv.py input.csv --strategy median
