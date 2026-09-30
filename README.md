@@ -94,4 +94,4 @@ csv-cleaner/
 
 ## License
 
-MIT
+MIT n/A
