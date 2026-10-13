@@ -84,7 +84,7 @@ Final shape: 6 rows, 4 columns.
 ## Project Structure
 
 ```
-csv-cleaner/
+csv-cleaner//
 ├── clean_csv.py       # Main script
 ├── sample_data.csv    # Example input file
 ├── requirements.txt   # Dependencies
